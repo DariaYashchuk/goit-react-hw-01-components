@@ -1,0 +1,22 @@
+.transactionhistory {
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+  width: 660px;
+  font-size: 25px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.headStyle {
+  width: 33%;
+  background-color: aquamarine;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.infoStyle {
+  text-align: center;
+  background-color: azure;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
